@@ -76,19 +76,6 @@ Evaluated model performance using:
 - Root Mean Squared Error (RMSE)
 - R² Score
 
----
-##  Visualizations
-
-### Price Distribution
-![Price Distribution](chart1_price_distribution.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](chart2_correlation_heatmap.png)
-
-### Actual vs Predicted Prices
-![Actual vs Predicted Prices](chart3_actual_vs_predicted.png)
-
----
 
 ##  Results
 
